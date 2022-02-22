@@ -20,8 +20,11 @@
 
 # Programas utilizados
 
--Git Bash
+-Anaconda 3 2021.05(Python 3.8.8.64-bit)
 
--Anaconda (Jupyter Lab)
+-Git Hub Desktop 2.9.5
 
--Git Hub Desktop
+# Explicación de la data utilizada
+
+Se utilizó una data de PubMed de publicaciones sobre datos genéticos 
+de Ecuador, de una data que contenía secuencias de distintos genes de interes
