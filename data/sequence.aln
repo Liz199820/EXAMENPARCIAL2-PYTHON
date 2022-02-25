@@ -1,0 +1,290 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+MH428825.1      ------------------------------GCTGGTGTTAAAGATTATAAATTGACTTAT
+MH428824.1      ------------------------------GCTGGTGTTAAAGATTATAAATTGACTTAT
+MT239311.1      --------------AAGTGTTGGGTTCAAAGCTGGTGTTAAAGATTATAAATTGACTTAT
+MT239302.1      --------------AAGTGTTGGGTTCAAAGCTGGTGTTAAAGATTATAAATTGACTTAT
+KX119261.1      ACAGAAACTAAAGCAAGTGTTGGGTTCAAAGCTGGTGTTAAAGATTATAAATTGACTTAT
+MW319032.1      -----------------------------------------AGATTATAAATTGACTTAT
+MH428826.1      ------------------------------GCTGGTGTTAAAGATTATAAATTGACTTAT
+KX385932.1      ---------------------------------------------------TTGACTTAT
+U74247.1        ------------------GTTGGGTTCAAAGCTGGTGTTAAAGATTATAAATTGACTTAT
+EU288962.1      ------------------------------------------------------------
+                                                                            
+
+MH428825.1      TATACTCCTGAGTATGAAACGAAAGATACTGATATCTTGGCAGCATTCCGAGTAACTCCT
+MH428824.1      TATACTCCTGAGTATGAAACGAAAGATACTGATATCTTGGCAGCATTCCGAGTAACTCCT
+MT239311.1      TATACTCCTGAGTATGAAACGAAAGATACTGATATCTTGGCAGCATTCCGAGTAACTCCT
+MT239302.1      TATACTCCTGAGTATGAAACGAAAGATACTGATATCTTGGCAGCATTCCGAGTAACTCCT
+KX119261.1      TATACTCCTGAGTATGAAACGAAAGATACTGATATCTTGGCAGCATTCCGAGTAACTCCT
+MW319032.1      TATACTCCTGAGTATGAAACGAAAGATACTGATATCTTGGCAGCATTCCGAGTAACTCCT
+MH428826.1      TATACTCCTGAGTATGAAACCAAAGATACTGATATCTTGGCAGCATTCCGAGTAACTCCT
+KX385932.1      TATACTCCTGAGTATGAAACGAAAGATACTGATATCTTGGCAGCATTCCGAGTAACTCCT
+U74247.1        TATACTCCTGAGTATGAAACGAAAGATACTGATATCTTGGCAGCATTCCGAGTAACTCCT
+EU288962.1      ------------------------------------------------------------
+                                                                            
+
+MH428825.1      CAACCTGGAGTTCCTCCGGAAGAAGCGGGTGCCGCGGTAGCTGCCGA-ATCTTCTACTGG
+MH428824.1      CAACCTGGAGTTCCTCCGGAAGAAGCGGGTGCCGCGGTAGCTGCCGA-ATCTTCTACTGG
+MT239311.1      CAACCTGGAGTTCCTCCGGAAGAAGCGGGTGCCGCGGTAGCTGCCGA-ATCTTCTACTGG
+MT239302.1      CAACCTGGAGTTCCTCCGGAAGAAGCGGGTGCCGCGGTAGCTGCCGA-ATCTTCTACTGG
+KX119261.1      CAACCTGGAGTTCCTCCGGAAGAAGCGGGTGCCGCGGTAGCTGCCGA-ATCTTCTACTGG
+MW319032.1      CAACCTGGAGTTCCTCCGGAAGAAGCGGGTGCCGCGGTAGCTGCCGA-ATCTTCTACTGG
+MH428826.1      CAACCTGGAGTTCCTCCGGAAGAAGCGGGTGCCGCGGTAGCTGCCGA-ATCTTCTACTGG
+KX385932.1      CAACCTGGAGTTCCTCCGGAAGAAGCGGGTGCCGCGGTAGCTGCCGA-ATCTTCTACTGG
+U74247.1        CAACCTGGAGTTCCTCCGGAAGAAGCGGGTGCCGCGGTAGCTGCCGA-ATCTTCTACTGG
+EU288962.1      ---GATTGGGTTTCTCTACCAGGTGTTCTTCCCGTTGCTTCAGGGGGTATTCACGTTTGG
+                     * * *** ***    **  *    * ***  *   * *  *  **   *   ***
+
+MH428825.1      TACATGGACAACTGTTTGGACCGATGGGCTTACCAGTCTTGATCGTTACAAAGGACGATG
+MH428824.1      TACATGGACAACTGTTTGGACCGATGGGCTTACCAGTCTTGATCGTTACAAAGGACGATG
+MT239311.1      TACATGGACAACTGTTTGGACCGATGGGCTTACCAGTCTTGATCGTTACAAAGGACGATG
+MT239302.1      TACATGGACAACTGTTTGGACCGATGGGCTTACCAGTCTTGATCGTTACAAAGGACGATG
+KX119261.1      TACATGGACAACTGTTTGGACCGATGGGCTTACCAGTCTTGATCGTTACAAAGGACGATG
+MW319032.1      TACATGGACAACTGTTTGGACCGATGGGCTTACCAGTCTTGATCGTTACAAAGGACGATG
+MH428826.1      TACATGGACAACTGTTTGGACCGATGGGCTTACCAGTCTTGATCGTTACAAAGGACGATG
+KX385932.1      TACATGGACAACTGTTTGGACCGATGGGCTTACCAGTCTTGATCGTTACAAAGGACGATG
+U74247.1        TACATGGACAACTGTTTGGACCGATGGGCTTACCAGTCTTGATCGTTACAAAGGACGATG
+EU288962.1      CATATGC----CTGCTCTGACCGA-GATCTTTGGAGATGATTCCGTACTCCAATTCGGTG
+                 * ***     *** *  ****** *  ***   **       ***     *   ** **
+
+MH428825.1      CTACAACATCGAGCCGGTTGCTGGCGAAGAAAATCAATATATTGCCTATGTAGCTTATCC
+MH428824.1      CTACAACATCGAGCCGGTTGCTGGCGAAGAAAATCAATATATTGCCTATGTAGCTTATCC
+MT239311.1      CTACAACATCGAGCCGGTTGCTGGCGAAGAAAATCAATATATTGCCTATGTAGCTTATCC
+MT239302.1      CTACAACATCGAGCCGGTTGCTGGCGAAGAAAATCAATATATTGCCTATGTAGCTTATCC
+KX119261.1      CTACAACATCGAGCCGGTTGCTGGCGAAGAAAATCAATATATTGCCTATGTAGCTTATCC
+MW319032.1      CTACAACATCGAGCCGGTTGCTGGCGAAGAAAATCAATATATTGCCTATGTAGCTTATCC
+MH428826.1      CTACAACATCGAGCCGGTTGCTGGAGAAGAAAATCAATATATTGCTTATGTAGCTTATCC
+KX385932.1      CTACAACATCGAGCCGGTTGCTGGCGAAGAAAATCAATATATTGCCTATGTAGCTTATCC
+U74247.1        CTACAACATCGAGCCGGTTGCTGGCGAAGAAAATCAATATATTGCCTATGTAGCTTATCC
+EU288962.1      GTGGAACCTTAGGGCA-TCCTTGGGGAAATGCACCAG----GTGCC---GTAGCTAATCG
+                 *  *** *   * *  *   *** ***    * **      ***    ****** *** 
+
+MH428825.1      TTTAGACCTTTTTGAGGAAGGTTCTGTTACTAACATGTTTACTTCCATTGTAGGTAATGT
+MH428824.1      TTTAGACCTTTTTGAGGAAGGTTCTGTTACTAACATGTTTACTTCCATTGTAGGTAATGT
+MT239311.1      TTTAGACCTTTTTGAGGAAGGTTCTGTTACTAACATGTTTACTTCCATTGTAGGTAATGT
+MT239302.1      TTTAGACCTTTTTGAGGAAGGTTCTGTTACTAACATGTTTACTTCCATTGTAGGTAATGT
+KX119261.1      TTTAGACCTTTTTGAGGAAGGTTCTGTTACTAACATGTTTACTTCCATTGTAGGTAATGT
+MW319032.1      TTTAGACCTTTTTGAGGAAGGTTCTGTTACTAACATGTTTACTTCCATTGTAGGTAATGT
+MH428826.1      CTTAGACCTTTTTGAAGAAGGTTCTGTTACTAACATGTTTACTTCCATTGTGGGTAATGT
+KX385932.1      TTTAGACCTTTTTGAGGAAGGTTCTGTTACTAACATGTTTACTTCCATTGTAGGTAATGT
+U74247.1        TTTAGACCTTTTTGAGGAAGGTTCTGTTACTAACATGTTTACTTCCATTGTAGGTAATGT
+EU288962.1      AGTAGCTCTC------GAAGCATGTGT-----ACAGG----CTCGGAATGAGGGTCGTGA
+                  ***  **       ****  * ***     *** *    **   * **  ***  ** 
+
+MH428825.1      ATTTGGGTTCAAGGCCCTTCGCGCCCTACGTCTGGAAGATTTGCGAATCCCTATCTCTTA
+MH428824.1      ATTTGGGTTCAAGGCCCTTCGCGCCCTACGTCTGGAAGATTTGCGAATCCCTATCTCTTA
+MT239311.1      ATTTGGGTTCAAGGCCCTTCGCGCCCTACGTCTGGAAGATTTGCGAATCCCTATCTCTTA
+MT239302.1      ATTTGGGTTCAAGGCCCTTCGCGCCCTACGTCTGGAAGATTTGCGAATCCCTATCTCTTA
+KX119261.1      ATTTGGGTTCAAGGCCCTTCGCGCCCTACGTCTGGAAGATTTGCGAATCCCTATCTCTTA
+MW319032.1      ATTTGGGTTCAAGGCCCTTCGCGCCCTACGTCTGGAAGATTTGCGAATCCCTATCTCTTA
+MH428826.1      ATTTGGGTTCAAGGCCCTTCGCGCCCTACGTCTGGAAGATTTGCGAATCCCTATCTCTTA
+KX385932.1      ATTTGGGTTCAAGGCCCTTCGCGCCCTACGTCTGGAAGATTTGCGAATCCCTATCTCTTA
+U74247.1        ATTTGGGTTCAAGGCCCTTCGCGCCCTACGTCTGGAAGATTTGCGAATCCCTATCTCTTA
+EU288962.1      TCTTGCTCGTGAGGGTAATGAAATCATCCGTGAGGCGAGCAAATGGAGTCCTGAATTAGC
+                  ***      ***    *     * * ***  **         * *  ***   *    
+
+MH428825.1      TATTAAAACTTTCCAAGGTCCGCCTCATGGCATCCAAGTTGAAAGAGATAA-ATTAAACA
+MH428824.1      TATTAAAACTTTCCAAGGTCCGCCTCATGGCATCCAAGTTGAAAGAGATAA-ATTAAACA
+MT239311.1      TATTAAAACTTTCCAAGGTCCGCCTCATGGCATCCAAGTTGAAAGAGATAA-ATTAAACA
+MT239302.1      TATTAAAACTTTCCAAGGTCCGCCTCATGGCATCCAAGTTGAAAGAGATAA-ATTAAACA
+KX119261.1      TATTAAAACTTTCCAAGGTCCGCCTCATGGCATCCAAGTTGAAAGAGATAA-ATTAAACA
+MW319032.1      TATTAAAACTTTCCAAGGTCCGCCTCATGGCATCCAAGTTGAAAGAGATAA-ATTAAACA
+MH428826.1      TATTAAAACTTTCCAAGGTCCGCCTCATGGCATCCAAGTTGAAAGAGATAA-ATTGAACA
+KX385932.1      TATTAAAACTTTCCAAGGTCCGCCTCATGGCATCCAAGTTGAAAGAGATAA-ATTAAACA
+U74247.1        TATTAAAACTTTCCAAGGTCCGCCTCATGGCATCCAAGTTGAAAGAGATAA-ATTAAACA
+EU288962.1      TGCTG----CTTGTGAAGTATGG---AAGGCGATCAAATTTGAATTCCCAGCAATGGATA
+                *  *      **   * **  *    * ***   *** **  **     *  * *  * *
+
+MH428825.1      AGTATGGTCGCCCCCTATTGGGATGTACTATTAAACCAAAATTGGGGTTATCCGCGAAGA
+MH428824.1      AGTATGGTCGCCCCCTATTGGGATGTACTATTAAACCAAAATTGGGGTTATCCGCGAAGA
+MT239311.1      AGTATGGTCGCCCCCTATTGGGATGTACTATTAAACCAAAATTGGGGTTATCCGCGAAGA
+MT239302.1      AGTATGGTCGCCCCCTATTGGGATGTACTATTAAACCAAAATTGGGGTTATCCGCGAAGA
+KX119261.1      AGTATGGTCGCCCCCTATTGGGATGTACTATTAAACCAAAATTGGGGTTATCCGCGAAGA
+MW319032.1      AGTATGGTCGCCCCCTATTGGGATGTACTATTAAACCAAAATTGGGGTTATCCGCGAAGA
+MH428826.1      AGTACGGCCGCCCCCTATTGGGATGTACTATTAAACCTAAATTGGGGTTATCCGCGAAGA
+KX385932.1      AGTATGGTCGCCCCCTATTGGGATGTACTATTAAACCAAAATTGGGGTTATCCGCGAAGA
+U74247.1        AGTATGGTCGCCCCCTATTGGGATGTACTATTAAACCAAAATTGGGGTTATCCGCGAAGA
+EU288962.1      ------------------------------------------------------------
+                                                                            
+
+MH428825.1      ATTACGGTAGAGCAGTTTATGAATGTCTTCGCGGTGGACTTGATTTTACCAAAGATGATG
+MH428824.1      ATTACGGTAGAGCAGTTTATGAATGTCTTCGCGGTGGACTTGATTTTACCAAAGATGATG
+MT239311.1      ATTACGGTAGAGCAGTTTATGAATGTCTT-------------------------------
+MT239302.1      ATTACGGTAGAGCAGTTTATGAATGTCTT-------------------------------
+KX119261.1      ATTACGGTAGAGCAGTTTATGAATGTCTTCGCGGTGGACTTGATTTTACCAAAGATGATG
+MW319032.1      AT----------------------------------------------------------
+MH428826.1      ATTACGGTAGAGCAGTTTATGAATGTCTTCGCGGTGGACTTGATTTTACCAAAGATGATG
+KX385932.1      ATTACGGTAGAGCAGTTTATGAATGTCTTCGCGGTGGACTTGATTTTACCAAAGATGATG
+U74247.1        ATTACGGTAGAGCAGTTTATGAATGTCTTCGCGGTGGACTTGATTTTACCAAAGATGATG
+EU288962.1      ------------------------------------------------------------
+                                                                            
+
+MH428825.1      AAAATGTGAATTCTCAACCATTTATGCGTTGGAG--------------------------
+MH428824.1      AAAATGTGAATTCTCAACCATTTATGCGTTGGAGAGACCGTTTCC---------------
+MT239311.1      ------------------------------------------------------------
+MT239302.1      ------------------------------------------------------------
+KX119261.1      AAAATGTGAATTCTCAACCATTTATGCGTTGGAGAGACCGTTTCTTATTTTGTGCCGAAG
+MW319032.1      ------------------------------------------------------------
+MH428826.1      AGAATGTGAATTCTCAACCATTTATGCGTTGGAGAAG-----------------------
+KX385932.1      AAAATGTGAATTCTCAACCATTTATGCGTTGGAGAGACCGTTTCTTATTTTGTGCCGAAG
+U74247.1        AAAATGTGAATTCTCAACCATTTATGCGTTGGAGAGACCGTTTCTTATTTTGTGCCGAAG
+EU288962.1      ------------------------------------------------------------
+                                                                            
+
+MH428825.1      ------------------------------------------------------------
+MH428824.1      ------------------------------------------------------------
+MT239311.1      ------------------------------------------------------------
+MT239302.1      ------------------------------------------------------------
+KX119261.1      CAATTTTTAAATCCCAGGCCGAAACTGGTGAAATCAAAGGGC------------------
+MW319032.1      ------------------------------------------------------------
+MH428826.1      ------------------------------------------------------------
+KX385932.1      CAATTTTTAAATCCCAGGCCGAAACTGGTGAAATCAAAGGGCATTACTTGAACGCTACTG
+U74247.1        CAATTTTTAAATCCCAGGCCGAAACTGGTGAAATCAAAGGGCATTACTTGAACGCTACTG
+EU288962.1      ------------------------------------------------------------
+                                                                            
+
+MH428825.1      ------------------------------------------------------------
+MH428824.1      ------------------------------------------------------------
+MT239311.1      ------------------------------------------------------------
+MT239302.1      ------------------------------------------------------------
+KX119261.1      ------------------------------------------------------------
+MW319032.1      ------------------------------------------------------------
+MH428826.1      ------------------------------------------------------------
+KX385932.1      C-----------------------------------------------------------
+U74247.1        CAGGTACATGCGAAGAAATGATAAAAAGAGCTGTATTTGCTAGAGAATTGGGCGCTCCTA
+EU288962.1      ------------------------------------------------------------
+                                                                            
+
+MH428825.1      ------------------------------------------------------------
+MH428824.1      ------------------------------------------------------------
+MT239311.1      ------------------------------------------------------------
+MT239302.1      ------------------------------------------------------------
+KX119261.1      ------------------------------------------------------------
+MW319032.1      ------------------------------------------------------------
+MH428826.1      ------------------------------------------------------------
+KX385932.1      ------------------------------------------------------------
+U74247.1        TCGTAATGCACGATTACTTAACAGGGGGATTCACTGCAAATACTAGTTTGGCTCATTATT
+EU288962.1      ------------------------------------------------------------
+                                                                            
+
+MH428825.1      ------------------------------------------------------------
+MH428824.1      ------------------------------------------------------------
+MT239311.1      ------------------------------------------------------------
+MT239302.1      ------------------------------------------------------------
+KX119261.1      ------------------------------------------------------------
+MW319032.1      ------------------------------------------------------------
+MH428826.1      ------------------------------------------------------------
+KX385932.1      ------------------------------------------------------------
+U74247.1        GCCGGGATAATGGACTACTTCTTCATATCCATCGTGCAATGCACGCAGTTATCGATAGAC
+EU288962.1      ------------------------------------------------------------
+                                                                            
+
+MH428825.1      ------------------------------------------------------------
+MH428824.1      ------------------------------------------------------------
+MT239311.1      ------------------------------------------------------------
+MT239302.1      ------------------------------------------------------------
+KX119261.1      ------------------------------------------------------------
+MW319032.1      ------------------------------------------------------------
+MH428826.1      ------------------------------------------------------------
+KX385932.1      ------------------------------------------------------------
+U74247.1        AGAAGAATCATGGTATGCACTTTCGTGTACTAGCTAAAGCGTTACGTTTGTCTGGTGGAG
+EU288962.1      ------------------------------------------------------------
+                                                                            
+
+MH428825.1      ------------------------------------------------------------
+MH428824.1      ------------------------------------------------------------
+MT239311.1      ------------------------------------------------------------
+MT239302.1      ------------------------------------------------------------
+KX119261.1      ------------------------------------------------------------
+MW319032.1      ------------------------------------------------------------
+MH428826.1      ------------------------------------------------------------
+KX385932.1      ------------------------------------------------------------
+U74247.1        ATCATATTCACGCCGGTACCGTAGTAGGTAAACTTGAAGGGGAAAGAGATATTACTTTAG
+EU288962.1      ------------------------------------------------------------
+                                                                            
+
+MH428825.1      ------------------------------------------------------------
+MH428824.1      ------------------------------------------------------------
+MT239311.1      ------------------------------------------------------------
+MT239302.1      ------------------------------------------------------------
+KX119261.1      ------------------------------------------------------------
+MW319032.1      ------------------------------------------------------------
+MH428826.1      ------------------------------------------------------------
+KX385932.1      ------------------------------------------------------------
+U74247.1        GTTTTGTTGATTTATTACGTGATGATTTTATTGAAAAAGATCGAAGCCGTGGGATTTATT
+EU288962.1      ------------------------------------------------------------
+                                                                            
+
+MH428825.1      ------------------------------------------------------------
+MH428824.1      ------------------------------------------------------------
+MT239311.1      ------------------------------------------------------------
+MT239302.1      ------------------------------------------------------------
+KX119261.1      ------------------------------------------------------------
+MW319032.1      ------------------------------------------------------------
+MH428826.1      ------------------------------------------------------------
+KX385932.1      ------------------------------------------------------------
+U74247.1        TCACTCAGGATTGGGTTTCTCTACCAGGTGTTCTTCCCGTTGCTTCAGGGGGTATTCACG
+EU288962.1      ------------------------------------------------------------
+                                                                            
+
+MH428825.1      ------------------------------------------------------------
+MH428824.1      ------------------------------------------------------------
+MT239311.1      ------------------------------------------------------------
+MT239302.1      ------------------------------------------------------------
+KX119261.1      ------------------------------------------------------------
+MW319032.1      ------------------------------------------------------------
+MH428826.1      ------------------------------------------------------------
+KX385932.1      ------------------------------------------------------------
+U74247.1        TTTGGCATATGCCTGCTCTGACCGAGATCTTTGGAGATGATTCCGTACTCCAATTCGGTG
+EU288962.1      ------------------------------------------------------------
+                                                                            
+
+MH428825.1      ------------------------------------------------------------
+MH428824.1      ------------------------------------------------------------
+MT239311.1      ------------------------------------------------------------
+MT239302.1      ------------------------------------------------------------
+KX119261.1      ------------------------------------------------------------
+MW319032.1      ------------------------------------------------------------
+MH428826.1      ------------------------------------------------------------
+KX385932.1      ------------------------------------------------------------
+U74247.1        GTGGAACCTTAGGGCATCCTTGGGGAAATGCACCAGGTGCCGTAGCTAATCGAGTAGCTC
+EU288962.1      ------------------------------------------------------------
+                                                                            
+
+MH428825.1      ------------------------------------------------------------
+MH428824.1      ------------------------------------------------------------
+MT239311.1      ------------------------------------------------------------
+MT239302.1      ------------------------------------------------------------
+KX119261.1      ------------------------------------------------------------
+MW319032.1      ------------------------------------------------------------
+MH428826.1      ------------------------------------------------------------
+KX385932.1      ------------------------------------------------------------
+U74247.1        TCGAAGCATGTGTACAGGCTCGGAATGAGGGTCGTGATCTTGCTCGTGAGGGTAATGAAA
+EU288962.1      ------------------------------------------------------------
+                                                                            
+
+MH428825.1      ------------------------------------------------------------
+MH428824.1      ------------------------------------------------------------
+MT239311.1      ------------------------------------------------------------
+MT239302.1      ------------------------------------------------------------
+KX119261.1      ------------------------------------------------------------
+MW319032.1      ------------------------------------------------------------
+MH428826.1      ------------------------------------------------------------
+KX385932.1      ------------------------------------------------------------
+U74247.1        TCATCCGTGAGGCGAGCAAATGGAGTCCTGAATTAGCTGCTGCTTGTGAAGTATGGAAGG
+EU288962.1      ------------------------------------------------------------
+                                                                            
+
+MH428825.1      --------------------------------------
+MH428824.1      --------------------------------------
+MT239311.1      --------------------------------------
+MT239302.1      --------------------------------------
+KX119261.1      --------------------------------------
+MW319032.1      --------------------------------------
+MH428826.1      --------------------------------------
+KX385932.1      --------------------------------------
+U74247.1        CGATCAAATTTGAATTCCCAGCAATGGATACTTTGTAA
+EU288962.1      --------------------------------------
+                                                      
